@@ -5,8 +5,8 @@
 
 <br />
 <p align="center">
-e.g. it might start off like this: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<img src="" height="80%" width="80%" alt
 <br />
 
 <h2>Languages and Utilities Used</h2>
