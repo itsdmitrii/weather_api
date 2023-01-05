@@ -1,3 +1,5 @@
+#I used the OpenWeatherMap API to retrieve weather data and use the requests library in Python to fetch the weather API.
+
 from urllib import response
 import requests
 
